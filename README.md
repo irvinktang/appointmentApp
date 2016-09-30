@@ -2,12 +2,12 @@
 
 ## Usage
 
-### `npm start`
+### `npm run dev`
 
-Start your application. This will start your server and start compiling JSX into
-plain JavaScript.
+Start your application locally. This will start your server using nodemon and
+start compiling JSX into plain JavaScript.
 
-Express main file is `app.js`.  React files are in `client/index.js`
+The main file for Express is is `app.js`. React files are in `client/index.js`
 
 ## ESLint
 
